@@ -123,8 +123,6 @@ namespace twozerofoureight
         {
             
                 controller.ActionPerformed(TwoZeroFourEightController.LEFT);
-            
-                
         }
 
         private void btnRight_Click(object sender, EventArgs e)
