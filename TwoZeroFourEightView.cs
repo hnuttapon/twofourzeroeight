@@ -88,7 +88,7 @@ namespace twozerofoureight
         private void UpdateGameOverFull(bool check)
         {          
             if (check == true)
-            {                
+            {               
                 GAMEOVER.Text = "!! GAME OVER !!";
                 btnUp.Enabled = false;
                 btnRight.Enabled = false;
